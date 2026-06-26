@@ -1,0 +1,16 @@
+{
+  "name": "lab_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subscription.js",
+  "scripts": {
+  "test": "jest",
+  "coverage": "jest --coverage"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
